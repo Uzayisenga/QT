@@ -1,0 +1,19 @@
+userName: testsolutionsrwa_z5vQCE
+accessKey: sxAYLzJ6WwoZo5oXKpQo
+framework: java
+app: bs://sample.app
+platforms:
+  - platformName: ios
+    deviceName: iPhone 14 Pro Max
+    platformVersion: 16
+  - platformName: ios
+    deviceName: iPhone 15 Pro Max
+    platformVersion: 17
+  - platformName: ios
+    deviceName: iPhone 11
+    platformVersion: 14
+browserstackLocal: true
+buildName: bstack-demo
+projectName: BrowserStack Sample
+debug: true
+networkLogs: true
